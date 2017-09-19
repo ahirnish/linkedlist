@@ -1,0 +1,5 @@
+test/Application.class
+test/model/Node.class
+test/controller/NodeController.class
+test/persistence/NodeManager.class
+test/persistence/HibernateUtil.class
